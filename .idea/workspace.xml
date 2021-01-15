@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1fcb2d8-c6cf-413a-89ca-9f6bd1d97a43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/dist/bundle.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1mWKzKx6WnNByT2xjmLQV1LsdRS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.14.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="13.13.38" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Таирлан\PhpstormProjects\fullstackProject\src\components" />
+      <recent name="C:\Users\Таирлан\PhpstormProjects\fullstackProject\src\core" />
+      <recent name="C:\Users\Таирлан\PhpstormProjects\fullstackProject\src" />
+      <recent name="C:\Users\Таирлан\PhpstormProjects\fullstackProject" />
+      <recent name="C:\Users\Таирлан\PhpstormProjects\fullstackProject\1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1fcb2d8-c6cf-413a-89ca-9f6bd1d97a43" name="Default Changelist" comment="" />
+      <created>1609604167440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609604167440</updated>
+      <workItem from="1609604168537" duration="11757000" />
+      <workItem from="1609666803777" duration="17299000" />
+      <workItem from="1609741147552" duration="609000" />
+      <workItem from="1609768417183" duration="8088000" />
+      <workItem from="1609843350344" duration="1716000" />
+      <workItem from="1609916379534" duration="22415000" />
+      <workItem from="1610093992043" duration="740000" />
+      <workItem from="1610507779001" duration="666000" />
+      <workItem from="1610532079088" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="288" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609617220516">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="378" y="288" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1609617220516" />
+    <state x="50" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609931146317">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="50" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1609931146317" />
+    <state x="398" y="361" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609937824581">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="398" y="361" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.984@0.0.1280.984" timestamp="1609937824581" />
+    <state x="282" y="123" key="SettingsEditor" timestamp="1609604474357">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="282" y="123" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1609604474357" />
+  </component>
+</project>
