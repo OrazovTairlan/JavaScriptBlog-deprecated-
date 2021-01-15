@@ -25,7 +25,6 @@ export class PostsComponent extends Component {
 }
 
 function renderPost(post) {
-  const button = "<button class = 'button-round button-small button-primary'>Сохранить</button>";
   return `
     <div class="panel">
     <button data-remove = "true">Удалить</button>

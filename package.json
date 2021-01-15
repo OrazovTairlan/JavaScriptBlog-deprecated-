@@ -13,7 +13,7 @@
     "blog",
     "javascript"
   ],
-  "author": "Vladilen Mini",
+  "author": "Orazov Tairlan",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
