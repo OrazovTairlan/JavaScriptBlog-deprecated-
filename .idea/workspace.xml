@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1fcb2d8-c6cf-413a-89ca-9f6bd1d97a43" name="Default Changelist" comment="" />
+    <list default="true" id="b1fcb2d8-c6cf-413a-89ca-9f6bd1d97a43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/dist/bundle.js" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -30,7 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.14.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="13.13.38" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
@@ -62,6 +67,7 @@
       <workItem from="1610093992043" duration="740000" />
       <workItem from="1610507779001" duration="666000" />
       <workItem from="1610532079088" duration="38000" />
+      <workItem from="1610722140865" duration="349000" />
     </task>
     <servers />
   </component>

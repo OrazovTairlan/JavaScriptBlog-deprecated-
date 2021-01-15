@@ -39,7 +39,6 @@ function renderPost(post) {
         </div>
         <div class="panel-footer w-panel-footer">
           <small>12.12.12</small>
-          ${button}
         </div>
       </div>
     `
